@@ -1,2 +1,2 @@
 # googlesearchimages
-This project allow you search for images on Google using PHP
+This project allows you to search for images on Google using PHP.
